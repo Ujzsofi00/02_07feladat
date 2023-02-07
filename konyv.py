@@ -1,4 +1,4 @@
-f=open("regenyek.txt","r")
+f=open("regenyek.txt","r",encoding="UTF-8")
 file_data=[]
 #1.
 
