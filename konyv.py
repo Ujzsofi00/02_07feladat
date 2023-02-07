@@ -10,6 +10,8 @@ for i in f:
 
 del file_data[0]
 
+print("Regények száma: ",len(file_data))
+
 #2.
 
 
