@@ -10,6 +10,8 @@ for i in f:
 
 del file_data[0]
 
+print("Regények száma: ",len(file_data))
+
 #2.
 poirot=0
 marple=0
@@ -22,8 +24,14 @@ for i in range(len(file_data)):
 
 print("Marple kategóriás könyvek száma:",marple,"Poirot kategóriás könyvek száma:",poirot)
 
-#3.
+#3. Átlag számolósdi
 
+osszeg=0
+
+for i in range(len(file_data)):
+    osszeg+=int(file_data[i][3])
+
+print("Az árak átlagösszege: ",round(osszeg/len(file_data)),"ft")    
 
 #4.
 
