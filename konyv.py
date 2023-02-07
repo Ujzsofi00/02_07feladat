@@ -15,8 +15,14 @@ print("Regények száma: ",len(file_data))
 #2.
 
 
-#3.
+#3. Átlag számolósdi
 
+osszeg=0
+
+for i in range(len(file_data)):
+    osszeg+=int(file_data[i][3])
+
+print("Az árak átlagösszege: ",round(osszeg/len(file_data)),"ft")    
 
 #4.
 
