@@ -1,0 +1,72 @@
+Marple	A láthatatlan kéz	1942	4389
+Poirot	Mrs. McGinty halott	1952	5499
+	És eljõ a halál...	1944	5499
+Marple	Egy marék rozs	1953	6599
+Poirot	Zátonyok közt	1948	4389
+Poirot	Nyaraló gyilkosok	1941	4389
+Poirot	A fogorvos széke	1940	4389
+Poirot	Hétvégi gyilkosság	1946	5499
+	A titkos ellenfél	1922	6599
+Marple	Paddington 16.50	1957	6599
+Poirot	Temetni veszélyes	1953	6599
+	Az élet súlya	1956	5499
+Poirot	Lord Edgware meghal	1933	4389
+	Gyöngyözõ cián	1945	6599
+	Miért nem szóltak Evansnak?	1934	6599
+	Úti célja ismeretlen	1954	6599
+	Királyok és kalandorok	1925	5499
+Poirot	Ház a sziklán	1932	5499
+Poirot	Öt kismalac	1943	4389
+Poirot	Poirot karácsonya	1938	6599
+	Tíz kicsi néger	1939	5499
+	Bagdadba jöttek	1951	6599
+Marple	Nem csalás, nem ámítás	1952	4389
+Poirot	Gyilkosság az Orient expresszen	1934	4389
+Marple	A kristálytükör meghasadt	1962	4389
+	A rózsa és a tiszafa	1948	5499
+Poirot	Gyilkosság Mezopotámiában	1936	6599
+	Az ijedt szemû lány	1923	4389
+Poirot	A titokzatos Kék Vonat	1928	4389
+	A barna ruhás férfi	1924	5499
+Poirot	Macska a galambok között	1959	4389
+	Végtelen éjszaka	1967	5499
+Poirot	Függöny: Poirot utolsó esete	1975	6599
+	Az óriás kenyere	1930	4389
+	A frankfurti utas	1970	6599
+Marple	Holttest a könyvtárszobában	1942	5499
+Poirot	Az órák	1963	6599
+Poirot	A kutya se látta	1937	4389
+	A sors kapuja	1973	6599
+	A gyûlölet õrültje	1939	5499
+Marple	Szunnyadó gyilkosság	1976	6599
+Poirot	Tragédia három felvonásban	1935	6599
+Poirot	Halál a felhõk fölött	1935	4389
+Marple	Rejtély az Antillákon	1964	4389
+Marple	Nemezis	1971	5499
+Poirot	Gloriett a hullának	1956	5499
+Poirot	Nyílt kártyákkal	1936	4389
+	A Hét Számlap rejtélye	1929	6599
+Poirot	Az Ackroyd-gyilkosság	1926	4389
+Poirot	Ellopott gyilkosság	1969	5499
+Poirot	A titokzatos Négyes	1927	4389
+Marple	Gyilkosság meghirdetve	1950	6599
+Poirot	A titokzatos stylesi eset	1920	5499
+Poirot	Találkozás a halállal	1938	4389
+Poirot	Az elefántok nem felejtenek	1972	6599
+Marple	Gyilkosság a paplakban	1930	6599
+	Távol telt tõled tavaszom	1944	4389
+	Bûbájos gyilkosok	1961	6599
+	Befejezetlen portré	1934	5499
+Poirot	Cipruskoporsó	1940	4389
+	A Sittaford-rejtély	1931	6599
+	Ferde ház	1949	4389
+Poirot	Harmadik lány	1966	4389
+Poirot	Az ABC-gyilkosságok	1936	6599
+Poirot	Halál a Níluson	1938	5499
+	Balhüvelykem bizsereg...	1968	4389
+Poirot	Gyilkosság a diákszállóban	1955	5499
+	Az alibi	1958	5499
+	A lányom mindig a lányom	1952	4389
+	N vagy M	1941	4389
+	Éjféltájt	1944	6599
+Marple	A Bertram Szálló	1965	6599
